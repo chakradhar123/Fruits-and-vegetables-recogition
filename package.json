@@ -19,6 +19,6 @@
   "dependencies": {
     "@tensorflow/tfjs": "^1.7.0",
     "@tensorflow/tfjs-node": "^1.7.0",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
